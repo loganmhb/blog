@@ -1,0 +1,12 @@
+# Site settings
+title: (un)timely
+email: logan.buckley@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  writing, tech, programming, life, New York, etc.
+baseurl: "/blog/" # the subpath of your site, e.g. /blog/
+url: "http://bckly.com" # the base hostname & protocol for your site
+twitter_username: loganmhb
+github_username:  loganmhb
+
+# Build settings
+markdown: kramdown
